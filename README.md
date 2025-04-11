@@ -1,8 +1,8 @@
 ¡Hola! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20"> Me llamo Miguel Valdez,
 
-Soy un Ingeniero de Software especializado en el desarrollo Full Stack, con la capacidad de crear soluciones escalables y eficientes utilizando tecnologías como React, Node.js y MongoDB. Mi experiencia abarca tanto el desarrollo frontend como el backend, centrándome en la calidad y la innovación, lo que me permite ofrecer soluciones de alto impacto para proyectos de diversas escalas. Siempre me mantengo actualizado en las últimas tendencias de desarrollo para aplicar las mejores prácticas y tecnologías en mis proyectos.
+Soy un Ingeniero de Software especializado en el desarrollo Full Stack, con la capacidad de crear soluciones escalables y eficientes utilizando tecnologías como React, Node.js y MongoDB. Mi experiencia abarca tanto el desarrollo frontend como el backend, centrándome en la calidad y la innovación para desarrollar soluciones robustas y alineadas con las necesidades específicas de cada proyecto.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/miguel-valdez-b75185207)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ma-valdez)
 [![Mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mavd22mv@gmail.com)
 
 ## ⚡ Stack Tecnológico
