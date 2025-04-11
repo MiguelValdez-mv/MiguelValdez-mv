@@ -2,7 +2,7 @@
 
 Soy un Ingeniero de Software especializado en el desarrollo Full Stack, con la capacidad de crear soluciones escalables y eficientes utilizando tecnologías como React, Node.js y MongoDB. Mi experiencia abarca tanto el desarrollo frontend como el backend, centrándome en la calidad y la innovación para desarrollar soluciones robustas y alineadas con las necesidades específicas de cada proyecto.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ma-valdez)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ma-valdez)
 [![Mail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mavd22mv@gmail.com)
 
 ## ⚡ Stack Tecnológico
